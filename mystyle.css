@@ -1,0 +1,26 @@
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;}
+
+ body {background-color: rgb(0, 195, 255);}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+     background-color: pink;
+     font-size:2.5vw;}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: pink
+    color: black;
+    font-size:1.0vw;}
+
+ul {
+     font-family: 'Courier New', Courier, monospace;
+     background-color: pink
+     color: black;
+     font-size:1.0vw;}
+
+.myDiv  {
+  border: 2px outset blueviolet;
+  background-color: lightblue;
+  text-align: center;
